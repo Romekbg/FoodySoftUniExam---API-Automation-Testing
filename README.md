@@ -110,6 +110,6 @@ This repository is licensed under the MIT License.
 
 ## Disclaimer
 
-Please note that the RevueCrafters app/API tested in this project is the property of SoftUni, and this repository only contains my personal testing and automation scripts related to it.
+Please note that the app/API tested in this project is the property of SoftUni, and this repository only contains my personal testing and automation scripts related to it.
 
 
